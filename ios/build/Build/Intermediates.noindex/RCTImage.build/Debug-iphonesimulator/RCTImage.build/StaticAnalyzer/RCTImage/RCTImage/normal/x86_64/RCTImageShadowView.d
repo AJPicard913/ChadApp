@@ -1,0 +1,20 @@
+dependencies: \
+  /Volumes/Source/Workspace/ChadApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.m \
+  /Volumes/Source/Workspace/ChadApp/node_modules/react-native/Libraries/Image/RCTImageShadowView.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Source/Workspace/ChadApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
